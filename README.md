@@ -10,7 +10,7 @@ Simple web - Game of Guess The Number with simple Bootstrap &amp; JavaScript
 <br>
 <br>
 ## Phone Version
-
+![Untitled1](https://github.com/faisalyudiansah/Game-Web-GuessTheNumber-Bootstrap-Simple/assets/142356615/c7b5d68f-0601-4853-a759-095427731bcb)
 <br>
 <br>
 @Muhammad Faisal Yudiansah
